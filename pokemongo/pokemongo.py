@@ -12,7 +12,7 @@ with open(filename, 'r') as csvfile:
     # creating a csv reader object
     csvreader = csv.reader(csvfile)
       
-    # extracting field names through first r zow
+    # extracting field names through firbushra badst r zow
     fields = next(csvreader)
   
     # extracting each data row one by one
